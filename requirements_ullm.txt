@@ -1,0 +1,16 @@
+# conda create --name ullm python=3.9
+# conda activate ullm
+torch
+numpy
+matplotlib
+accelerate
+transformers
+sentencepiece
+datasets
+langchain
+torchrl
+llama-index
+bertviz
+ipykernel
+wikipedia
+notebook
